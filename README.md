@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas Simas 👋
 
-Languages that i work with:
+Languages/frameworks that i work with:
 
 <div style="display: inline_block">
   <!--Typescript-->
