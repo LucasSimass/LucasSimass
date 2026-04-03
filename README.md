@@ -39,7 +39,8 @@ Languages/frameworks that i work with:
 
  <!--Contact-->
 <div> 
-  Contact me:<br><br>
+  <img align="center" alt="Lucas-Snake" height="70" width="110" src="https://img.shields.io/badge/Contact%20Me:-010003"><br><br>
+
   
   <!--Gmail-->
   <a href = "mailto:simaslucas1m@gmail.com">
