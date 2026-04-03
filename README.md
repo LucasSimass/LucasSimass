@@ -31,8 +31,13 @@ Languages/frameworks that i work with:
   <img align="center" alt="Lucas-Java" height="50" width="45" src="https://cdn-icons-png.flaticon.com/128/15379/15379746.png">
 </div>
   
-  ##
- 
+#
+
+<img align="center" alt="Lucas-Snake" height="1000" width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+#
+
+ <!--Contact-->
 <div> 
   Contact me:<br><br>
   
@@ -46,7 +51,3 @@ Languages/frameworks that i work with:
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-
-#
-<img align="center" alt="Lucas-Snake" height="1000" width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-
