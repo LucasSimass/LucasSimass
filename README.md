@@ -2,7 +2,7 @@
 
 Languages that i work with:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <!--Typescript-->
   <img align="center" alt="Lucas-Typescript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png">
 
